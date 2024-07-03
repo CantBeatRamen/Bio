@@ -27,3 +27,12 @@ display:block;
 ul {
 display:inline-block;
 }
+
+a {
+color:black;
+  
+}
+
+a:hover {
+background-color:white;
+}
