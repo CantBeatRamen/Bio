@@ -1,0 +1,29 @@
+body {
+margin-top:15%;
+background-color:purple;
+}
+
+header {
+width:100%;
+display:flex;
+justify-content:space-between;
+background-color:#431049;
+position:fixed;
+box-sizing:border-box;
+top:0;
+left:0;
+
+}
+
+.align {
+text-align:center;
+}
+
+.photo-align {
+margin:0 auto;
+display:block;
+}
+
+ul {
+display:inline-block;
+}
