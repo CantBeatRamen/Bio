@@ -36,3 +36,10 @@ color:black;
 a:hover {
 background-color:white;
 }
+
+.photo {
+max-width:500px;
+max-height:600px;
+  aspect-ratio: 8/9;
+  
+}
